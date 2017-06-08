@@ -88,10 +88,10 @@ publishDir = "docs"
     footertext = '** Demo images from <a href="http://plmd.me/" target="_blank">plmd.me</a>'
 
     [[params.work.row]]
-      img = "work_1.jpg"
+      img = "needac.gif"
       alt = "Image2"
-      title = "Project 1"
-      subtitle = "Branding"
+      title = "Don't DIY"
+      subtitle = "Save money with the right solution, not the cheapest"
 
     [[params.work.row]]
       img = "work_2.jpg"
