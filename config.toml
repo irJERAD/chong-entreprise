@@ -50,8 +50,8 @@ publishDir = "docs"
   [params.intro]
 
   [[params.intro.item]]
-    title = "Assess"
-    description = "We recognize that with each and every one of our unique customers come to us with distinct and non-trivial matters of heating and cooling on which important monthly dollars depend on efficiency and crucial customer comfort if effected by continually. Don't let pre-designed inefficient systems waist your monthly energy bill or one size fits all solutions leave your customers neglected out in the cold or feeling burned."
+    title = "Cognizant"
+    description = "We recognize that with each and every one of our unique customers come to us with distinct and non-trivial matters of heating and cooling on which important monthly dollars depend on efficiency and crucial customer comfort if effected by continually. Don't let prefabricated inefficient systems waist your monthly energy bill or one size fits all solutions leave your customers neglected out in the cold or feeling burned."
     url = "#"
     button = "Let's Talk About You"
     icon = "icon-bulb"
@@ -260,11 +260,11 @@ publishDir = "docs"
     enable = true
     map = true
     title = "Get in touch"
-    description = "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+    description = "The only thing more important than our work is our family. Get in touch with us and let's talk about how your air, heating and cooling needs will benefit from our innovative solutions and services. At Chong entreprise we have an amazing family of clients with whom we constantly strive to super please "
     
     # Available icons: http://simplelineicons.com/
     details = [
-        ["icon-home", "5555 Love Paradise 56 New Clity 5655, <br> Excel Tower United Kingdom"],
+        ["icon-home", "Center of Paradise, <br> Tahiti Polynésie française"],
         ["icon-phone", "(123) 465-6789"],
         ["icon-envelope", "info@freehtml5.co"],
         ["icon-globe", '<a href="http://freehtml5.co/" target="_blank">freehtml5.co</a>']
